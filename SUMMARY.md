@@ -1,11 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [佈局](chapter1.md)
-* 中押、中盤
-* 收官、官子
-* 手筋
-* 死活
-* 定石、定式
 * 規則
+* 動作術語
+* 手筋
+* 定石、定式
+* [佈局](chapter1.md)
+* 死活
+* [中押、中盤](zhong-ya-3001-zhong-pan.md)
+* 收官、官子
 
