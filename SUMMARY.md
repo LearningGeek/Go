@@ -6,7 +6,7 @@
 * 手筋
 * 定石、定式
 * [佈局](chapter1.md)
-* 死活
+* [死活](si-huo.md)
 * [中押、中盤](zhong-ya-3001-zhong-pan.md)
 * 收官、官子
 
