@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* 規則
-* 動作術語
-* 手筋
+* [規則](gui-ze.md)
+* [動作術語](dong-zuo-shu-yu.md)
+* [手筋](shou-jin.md)
 * 定石、定式
 * [佈局](chapter1.md)
 * [死活](si-huo.md)
