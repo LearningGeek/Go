@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [規則](gui-ze.md)
-* [動作術語](dong-zuo-shu-yu.md)
+* [術語](dong-zuo-shu-yu.md)
 * [手筋](shou-jin.md)
 * 定石、定式
 * [佈局](chapter1.md)
