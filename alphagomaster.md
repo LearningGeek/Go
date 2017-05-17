@@ -26,3 +26,9 @@
 
 ![](https://www.inside.com.tw/wp-content/uploads/2017/04/641-6.jpeg)
 
+
+
+## [看完master的棋還覺得下棋需要超級厲害的手筋嗎?](https://youtu.be/pX5_swaiXDY)
+
+
+
