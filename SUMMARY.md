@@ -9,4 +9,5 @@
 * [死活](si-huo.md)
 * [中押、中盤](zhong-ya-3001-zhong-pan.md)
 * [收官、官子](shou-guan-3001-guan-zi.md)
+* [AlphaGo、Master](alphagomaster.md)
 
